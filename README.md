@@ -49,21 +49,6 @@ I'm a passionate **Full-Stack Developer** who loves building fast, scalable, and
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiKrthu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrthu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SaiKrthu&theme=tokyonight&hide_border=true" height="170"/>
-</div>
-
----
-
 ### 🏆 GitHub Trophies
 
 <div align="center">
