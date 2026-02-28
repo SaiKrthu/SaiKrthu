@@ -49,10 +49,13 @@ I'm a passionate **Full-Stack Developer** who loves building fast, scalable, and
 
 ---
 
+
 ### 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaiKrthu&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
+
 ---
 
 ### 🌟 What I Do
